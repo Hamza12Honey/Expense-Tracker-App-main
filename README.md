@@ -14,7 +14,7 @@ This is a simple Expense Tracker web application built using React. It allows us
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/cyberknight0021/Expense-Tracker-App.git
+git clone https://github.com/Hamza12Honey/Expense-Tracker-App-main.git
 ```
 
 2. Navigate into the project directory:
